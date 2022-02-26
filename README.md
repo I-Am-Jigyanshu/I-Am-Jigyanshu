@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**I-Am-Jigyanshu/I-Am-Jigyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Jigyanshu
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Jigyanshu 👋</b></h1>
