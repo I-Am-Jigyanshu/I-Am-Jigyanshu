@@ -2,13 +2,13 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Jigyanshu 👋</b></h1>
 </p>
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jigyanshu!;I'm+a+Computer+Science+Student...;I'm+learning+Machine+Learning;And+I'm+a+proud+Indian+🇵🇰)](https://git.io/typing-svg)
 <p>
   <h4 align="center"><b>"Focusing on Building my Career."</b></h4>
 </p>
 
 <p align="center">
-    <img align="center" [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jigyanshu!;I'm+a+Computer+Science+Student...;I'm+learning+Machine+Learning;And+I'm+a+proud+Indian+🇵🇰)](https://git.io/typing-svg)
+  
 </p>
 
 <p align="center">
