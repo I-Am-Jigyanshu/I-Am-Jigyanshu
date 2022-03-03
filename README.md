@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Focusing on Building my Career."</b></h4>
+  <h4 align="center"><b>"Focusing on Building my Career..."</b></h4>
 </p>
 
 <p align="center">
