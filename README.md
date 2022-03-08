@@ -32,6 +32,7 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🎯 I Love Being Out of my Comfort zone..
 
 <br>
 
@@ -63,7 +64,7 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |4 repos|            ![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|52.38%|
+|Python                   |4 repos|            ![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|90.00%|
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
