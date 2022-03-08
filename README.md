@@ -25,7 +25,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Computer Science Student...
-- 🌱 I’m currently learning Machine Learning / Artificial Intelligence.
+- 🌱 I’m currently Studying in HNB Garhwal University.
 - 👯 I’m looking of Full time Opportunity :wink:
 - 🥅 2022 Goals: Fulfill my Dreams
 - 💬 Ask me about anything, I am happy to help :smile:
