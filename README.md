@@ -64,7 +64,9 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |4 repos|            ![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|70.00%|
+|Python                   |04 repos|            ![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|52.38%|
+                    
+| | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
