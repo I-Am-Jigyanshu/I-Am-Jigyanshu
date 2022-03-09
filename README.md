@@ -53,7 +53,7 @@
 
 <br>
 
-**I'm an early 🐤** 
+**I'm an early ** 
 
 📅 **I'm in process to be Productive** 
 
@@ -64,9 +64,9 @@
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |04 repos|            ![](https://via.placeholder.com/208x22/000000/000000?text=+)![](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|52.38%|
+|Python                   |04 repos|            ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F45378666%2Fhow-to-get-access-to-the-initial-blank-white-block-and-change-its-style-when-ifr&psig=AOvVaw2053g7AbGm8myxi2jYZBLn&ust=1646907962595000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDOgLXouPYCFQAAAAAdAAAAABAI!)[](https://via.placeholder.com/192x22/b8b8b8/b8b8b8?=text=+)|52.38%|
                     
-| | | | |
+
 
 <!--END_SECTION_LANGUAGE:readme-info-->
 
