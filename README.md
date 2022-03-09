@@ -53,7 +53,7 @@
 
 <br>
 
-**I'm an early ** 
+**“The computer was born to solve problems that did not exist before.”** 
 
 📅 **I'm in process to be Productive** 
 
