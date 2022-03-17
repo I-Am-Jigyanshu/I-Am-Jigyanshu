@@ -26,7 +26,7 @@
 
 ### I am a Computer Science Student...
 - 🏫 I’m currently Studying in HNB Garhwal University.
-- 👯 Looking for Full-Time Oppurtunity :wink:
+- 👯 Looking for Full-Time Opportunity :wink:
 - 🥅 2022 Goals: Fulfill my Dreams
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
