@@ -77,7 +77,6 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 <!--[website]: -->
-I-Am-Jigyanshu
 
 
 [instagram]:  https://www.instagram.com/jigyanshu__17/ 
