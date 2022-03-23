@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+Welcome+to+my+Profile!;I'm+a+CS+Student...;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Jigyanshu 👋</b></h1>
+  <h1 align="center"><b>Hello there👋�, I'm Jigyanshu🤟 </b></h1>
 </p>
 
 <p>
