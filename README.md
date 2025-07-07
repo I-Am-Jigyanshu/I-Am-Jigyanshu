@@ -25,9 +25,9 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Computer Science Student...
-- 🏫 I’m currently Studying in HNB Garhwal University.
+- 🏫 Studied at HNB Garhwal University.
 - 👯 Striving - DevOps :wink:
-- 🥅 2024 Goals: Fulfill my Dreams
+- 🥅 2025 Goals: Fulfill my Dream
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
